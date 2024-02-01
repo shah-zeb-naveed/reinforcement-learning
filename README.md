@@ -9,6 +9,9 @@ Published Demos:
 - LunarLanding with PPO (Stabelbaselines): https://huggingface.co/shahzebnaveed/ppo-LunarLander-v2
 - Lunar Landing with PPO (from scratch implementatioin): https://huggingface.co/shahzebnaveed/ppo-lunarlander
 - https://huggingface.co/shahzebnaveed/ppo-LunarLander-v2/resolve/main/replay.mp4
+- ![image](https://github.com/shah-zeb-naveed/reinforcement-learning/assets/44922205/2f774c80-d391-4d8b-96fd-20c8045abac3)
 - VizDoom using PPO (Sample Factory): https://huggingface.co/shahzebnaveed/play_vizdoom_health
 - https://huggingface.co/shahzebnaveed/play_vizdoom_health/resolve/main/replay.mp4
+- ![Uploading image.png…]()
+
 
