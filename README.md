@@ -3,5 +3,12 @@ This repository contains implementations of various reinforcement learning algor
 Published Demos:
 - SpaceInvaders using Deep Q-Networks: https://huggingface.co/shahzebnaveed/spaceinvaders-dqn
 - ![image](https://github.com/shah-zeb-naveed/reinforcement-learning/assets/44922205/0f02d636-8dc8-458d-aa8c-f811423dfa91)
-
+- Robotic Arm with A2C Model: https://huggingface.co/shahzebnaveed/a2c-PandaReachDense-v3
+- https://huggingface.co/shahzebnaveed/a2c-PandaReachDense-v3/resolve/main/replay.mp4
+- ![image](https://github.com/shah-zeb-naveed/reinforcement-learning/assets/44922205/cad66e39-38c6-4430-9f56-13bcb634bed0)
+- LunarLanding with PPO (Stabelbaselines): https://huggingface.co/shahzebnaveed/ppo-LunarLander-v2
+- Lunar Landing with PPO (from scratch implementatioin): https://huggingface.co/shahzebnaveed/ppo-lunarlander
+- https://huggingface.co/shahzebnaveed/ppo-LunarLander-v2/resolve/main/replay.mp4
+- VizDoom using PPO (Sample Factory): https://huggingface.co/shahzebnaveed/play_vizdoom_health
+- https://huggingface.co/shahzebnaveed/play_vizdoom_health/resolve/main/replay.mp4
 
